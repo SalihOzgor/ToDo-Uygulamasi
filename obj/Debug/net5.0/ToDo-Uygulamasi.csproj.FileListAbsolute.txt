@@ -1,0 +1,16 @@
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\bin\Debug\net5.0\ToDo-Uygulamasi.exe
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\bin\Debug\net5.0\ToDo-Uygulamasi.deps.json
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\bin\Debug\net5.0\ToDo-Uygulamasi.runtimeconfig.json
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\bin\Debug\net5.0\ToDo-Uygulamasi.runtimeconfig.dev.json
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\bin\Debug\net5.0\ToDo-Uygulamasi.dll
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\bin\Debug\net5.0\ref\ToDo-Uygulamasi.dll
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\bin\Debug\net5.0\ToDo-Uygulamasi.pdb
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\obj\Debug\net5.0\ToDo-Uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\obj\Debug\net5.0\ToDo-Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\obj\Debug\net5.0\ToDo-Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\obj\Debug\net5.0\ToDo-Uygulamasi.AssemblyInfo.cs
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\obj\Debug\net5.0\ToDo-Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\obj\Debug\net5.0\ToDo-Uygulamasi.dll
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\obj\Debug\net5.0\ref\ToDo-Uygulamasi.dll
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\obj\Debug\net5.0\ToDo-Uygulamasi.pdb
+C:\Users\Salih\Documents\Çalışmalar\ToDo-Uygulamasi\obj\Debug\net5.0\ToDo-Uygulamasi.genruntimeconfig.cache
